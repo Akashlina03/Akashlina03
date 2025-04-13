@@ -2,8 +2,9 @@
 <h3 align="center">🚀 Frontend Dev | MERN Stack Lover | UI Crafter</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Designing+Crazy+%2B+Clean+UI;Frontend+Dev+with+React+%26+TS;Currently+Learning+Full+Stack+(MERN)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Designing+Clean+%26+Crazy+UI;Frontend+Dev+with+React+%26+TypeScript;Currently+Learning+Full-Stack+(MERN)" alt="Typing SVG" />
 </p>
+
 
 ---
 
